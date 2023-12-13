@@ -2,8 +2,8 @@
 Program Praktikum Matakuliah Pengantar Pemrograman
 # Praktikum Pengantar Pemrograman
 
-<h1> Nama : MUH ALIF </h1>
-<h1> NIM  : 231031060 </h1>
-<h1> Prodi: Sistem Informasi </h1>
+<div> Nama : MUH ALIF </div>
+<div> NIM  : 231031060 </div>
+<div> Prodi: Sistem Informasi </div>
 
 * Praktikum 1: Pengenalan Variabel `latihan.py`
